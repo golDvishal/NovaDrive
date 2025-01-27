@@ -1,0 +1,18 @@
+{
+  "parts": {
+    "motor": {
+      "temperature": 45,
+      "rpm": 1000,
+      "current": 5,
+      "mechanicalLoad": "Medium"
+    },
+    "battery": {
+      "SOC": 85,
+      "SOH": 90,
+      "temperature": 35
+    },
+    "brake": {
+      "active": true
+    }
+  }
+}
